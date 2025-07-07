@@ -1,12 +1,17 @@
 # 🏏 FinalScore Insight – IPL First Innings Score Predictor
 
-#### 🔗 App Link: [Live App on Streamlit](https://finalscore-insight.streamlit.app)
+#### 🔗 App Link: https://finalscore-bvr3.onrender.com
 
 ---
 
 ## 🧠 Overview
 
 A real-time IPL first-innings score predictor that leverages machine learning and advanced data analysis to estimate match scores dynamically. The app considers current match context—runs, wickets, overs, recent 5-over performance—and provides accurate score forecasts with a user-friendly interface. Designed to assist analysts, fans, and strategists during live IPL matches.
+
+--- 
+
+## Demo
+https://github.com/user-attachments/assets/f9d458b1-ecf8-4b97-9476-4ee333e7d7ed
 
 ---
 
