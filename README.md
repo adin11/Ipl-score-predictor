@@ -11,7 +11,7 @@ A real-time IPL first-innings score predictor that leverages machine learning an
 --- 
 
 ## Demo
-https://github.com/user-attachments/assets/f9d458b1-ecf8-4b97-9476-4ee333e7d7ed
+https://github.com/user-attachments/assets/ad930235-b58b-4035-ba29-6adb4fc79727
 
 ---
 
